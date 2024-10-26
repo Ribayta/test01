@@ -1,0 +1,23 @@
+table{
+    width: 100%;
+    border-collapsel: collapes;
+}
+
+th, td{
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+grade-A {
+    background-color: #ffffff;
+}
+grade-B {
+    background-color: #ffffff;
+}
+grade-C {
+    background-color: #ffffff;
+}
+grade-D {
+    background-color: #ffffff;
+}
